@@ -15,7 +15,6 @@ Cube Front Back Left Right Top Bottom
 The objective is to find ways to stack the four cubes as a vertical column so that each side of
 the column is showing all four colors.
 
-
 Recommendations
 Input
 The program should accept string of comma separated cube definitions, see example:
