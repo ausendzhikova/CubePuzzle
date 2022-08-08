@@ -1,28 +1,8 @@
-# CubePuzzle
+# CubePuzzle 
+![image_2022-08-08_150555081](https://user-images.githubusercontent.com/73290490/183414076-d63eea30-c909-4bb0-b342-6f81af629242.png)
 
-In this repository has solution of the Cube Puzzle Assignment.
+![image_2022-08-08_150442933](https://user-images.githubusercontent.com/73290490/183413889-364ef05a-9f86-4a4e-ae3d-5c2acb88e6e9.png) 
+![image_2022-08-08_150911951](https://user-images.githubusercontent.com/73290490/183414575-da86bb7d-da01-480e-9412-6cb0588ff9c8.png)
 
 
-Cube Puzzle
-You have four colored cubes. Each side of each cube is a single color, and there are four
-colors: blue (B), red (R), green (G) and yellow (Y) Describing the six faces as front, back,
-left, right, top, bottom, the cube colors are:
-Cube Front Back Left Right Top Bottom
-1 R B G Y B Y
-2 R G G Y B B
-3 Y B R G Y R
-4 Y G B R R R
-The objective is to find ways to stack the four cubes as a vertical column so that each side of
-the column is showing all four colors.
 
-Recommendations
-Input
-The program should accept string of comma separated cube definitions, see example:
-C:\>program RBGYBY,RGGYBB,YBRGYR,YGBRRR
-Sides are encoded in following sequence: front, back, left, right, top, bottom.
-Colors are: R = Red, G = Green, Y = Yellow, B = Blue
-
-Output
-The output needs to state clearly how many solutions are found. Each combination should
-be printed with one cube on a single line. Between the combinations there should be one
-empty line
